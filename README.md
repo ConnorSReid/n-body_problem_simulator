@@ -13,11 +13,11 @@ User input goes as follows:
 1. choose "pre-set" or "custom"
     1. choose which preset to simulate between 5 options
     2. choose how many bodies to simulate for custom simulations
-2. input the following information for each body: (x-position, y-position, x-velocity, y-velocity, mass)
-    - *it is recommended that inputs are very large; e.g. 1e5 is the equivalent of 10^5 & 3e5 is the equivalent of 3 * 10^5
+2. input the following information for each body: **(x-position, y-position, x-velocity, y-velocity, mass)**
+    - **it is recommended that inputs are very large; e.g. 1e5 is the equivalent of 10^5 & 3e5 is the equivalent of 3 * 10^5*
 3. repeat step 3 until each of the bodies is given the following information
 4. enjoy watching
-    - *preset scale is 1e-9 to aid in fitting the bodies into the 500px by 500px window & preset timestep is 1e5 (user input not taken to alter these values, edit them in the code)
+    - **preset scale is 1e-9 to aid in fitting the bodies into the 500px by 500px window & preset timestep is 1e5 (user input not taken to alter these values, edit them in the code)*
 5. closing the window ends the program
                               
 ## Program IDE
