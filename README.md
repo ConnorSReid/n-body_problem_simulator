@@ -11,8 +11,8 @@ Upon running the program, the user is given a selection of presets to provide an
 
 User input goes as follows:
 1. choose "pre-set" or "custom"
-  a. choose which preset to simulate between 5 options
-  b. choose how many bodies to simulate for custom simulations
+    a. choose which preset to simulate between 5 options
+    b. choose how many bodies to simulate for custom simulations
 2. input the following information for each body: (x-position, y-position, x-velocity, y-velocity, mass)
     - *it is recommended that inputs are very large; e.g. 1e5 is the equivalent of 10^5 & 3e5 is the equivalent of 3 * 10^5
 3. repeat step 3 until each of the bodies is given the following information
