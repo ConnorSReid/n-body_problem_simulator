@@ -7,8 +7,8 @@ This project was created as a test for user input handeling and java swing anima
 
 ## Usage
 
-Upon running the program, the user is given a selection of presets to provide an understanding
-  of how to approach custom simulations.
+Upon running the program, the user is given a selection of presets to provide an understanding of how to approach custom simulations.
+
 User input goes as follows:
 1. choose "pre-set" or "custom"
   a. choose which preset to simulate between 5 options
